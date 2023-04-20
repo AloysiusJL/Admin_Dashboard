@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://MrBego.github.io/Admin_Dashboard",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
