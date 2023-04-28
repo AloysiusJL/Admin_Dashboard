@@ -25,7 +25,7 @@ function App() {
       <ThemeProvider theme={theme}>
         <CssBaseline />
         <div className="app">
-          <Sidebar isSidebar={isSidebar} />
+          <Sidebar isSidebar={isSidebar} height= '100vh' />
           <main className="content">
             <Topbar setIsSidebar={setIsSidebar}/>
             <Routes>
